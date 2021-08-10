@@ -1,3 +1,5 @@
+// File app/Http/Controllers/Auth/LoginController.php
+
 <?php
 
 namespace App\Http\Controllers\Auth;
